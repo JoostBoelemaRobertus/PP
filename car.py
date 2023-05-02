@@ -23,7 +23,13 @@ class Car:
 
 auto = Car()
 auto.drive(20000)
-auto.drive(25000)
+auto.drive(10)
+auto.drive(30)
+auto.drive(2030303030)
+auto.drive(2020)
+auto.drive(1988)
+auto.drive(2000000000000000000000)
+auto.drive(2020)
 auto.drive(100)
 auto.kilometers
 
