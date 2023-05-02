@@ -10,3 +10,7 @@ class Rectangle:
 
     def __str__(self):
         return "Rectangle: " + str(self.width) + " x " + str(self.height) + "; area: " + str(self.area())
+    
+
+rect = Rectangle(5, 20)
+str(rect)
